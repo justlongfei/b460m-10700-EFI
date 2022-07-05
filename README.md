@@ -13,7 +13,8 @@
 
 ## 软件版本
 OpenCore: 0.8.2 release版本
-macOs: 12.4 (21F79)
+
+macOS: 12.4 (21F79)
 
 使用的Kexts：
 
